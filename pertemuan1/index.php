@@ -1,21 +1,9 @@
 <?php
 
-$nilai = 90;
-
-if ($nilai >= 90) {
-    echo "Nilai A";
-} 
-elseif ($nilai >= 80) {
-    echo "Nilai B";
-} 
-elseif ($nilai >= 70) {
-    echo "Nilai C";
-} 
-elseif ($nilai >= 60) {
-    echo "Nilai D";
-} 
-else {
-    echo "Nilai E";
-}
+echo "Nama: Ahmad Widhi Praditya\n";
+echo "Tinggi Badan: 172 cm\n";
+echo "Berat Badan: 60 kg\n";
+echo "Tanggal Lahir: 20 Mei 2003\n";
+echo "Nomor Absen: 02";
 
 ?>

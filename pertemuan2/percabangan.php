@@ -1,4 +1,5 @@
 <?php
+
 $nilai = readline("Masukkan nilai: ");
 
 if ($nilai >= 90) {
@@ -13,3 +14,5 @@ elseif ($nilai >= 70) {
 else {
     echo "D\n";
 }
+
+?>
